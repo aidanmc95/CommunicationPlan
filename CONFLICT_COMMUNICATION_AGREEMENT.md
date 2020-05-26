@@ -13,14 +13,18 @@ _Why:_
 As a team, we are going to create a Group Agreement as a markdown file to document the following:
 
 * What will your group do when it encounters conflict? Talk about it, escalate to group then to an instructor
+    1. If a conflict comes up our first step will be to set up a video meeting to discuss the problem. If that discussion doesn't work, or if one team member feels uncomfortable discussing, we will bring in an instructor. 
+    If we are unable to resolve the conflict with an instructor, we will bring in Cody or Justin (campus advisors?).
 
 
 * What is your process to resolve conflicts? Discussion, Scoping, these could be handled in pairs or done at the standup, table things if you can't come to an agreement.
-
+1. We will not resolve in large group settings. 
+2. In a discussion with our partner, we will make space at the beginning for both parties to discuss their viewpoints after which we will try to come to an agreement. 
 
 * How and when will you escalate the conflict if your attempts are unsuccessful? if something is tabled and is not resolved by standup then an instructor will solve it.
 
 1. Tie breakers go to instructors(Lead or Coach)
+- If we aren't able to resolve the issue we will bring in an instructor or coach. 
 
 #### Communication Plan
 
@@ -32,11 +36,13 @@ _Why:_
 Add your communication plan to your Group Agreement. Some things to consider:
 
 * How will you communicate after hours and on the weekend? Just talk in slack channel (THREAD IT) and make issues use project board.
+    1. We will use slack and ask if we can video chat if need be.
   
 * What is your strategy for ensuring everyone's voices are heard? Weekly standup (can be in person, Slack, Or video), Postmortem, Speak up for others.
+    1. Daily stand up and stand down
 
 
-* How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? Listen, Mindfulness, Respectful, Slack conversations should be in general channel as opposed to DMs.
+* How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? Listen, Mindfulness, Respectful, Slack conversations should be in DMs.
 
 1. Leave Comments in code explaining functionality and or bugs 
 2. Consistent variable names
@@ -47,3 +53,6 @@ Add your communication plan to your Group Agreement. Some things to consider:
 
 
 #### Signed by
+
+Aidan Muller-Cohn
+Magdalena Cooper
